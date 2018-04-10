@@ -2,7 +2,7 @@
   "name": "under-construction",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://boris-pozzo.github.io/under-construction",
+  "homepage": ".",
   "devDependencies": {
     "react-scripts": "1.1.4"
   },
