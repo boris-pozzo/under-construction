@@ -17,8 +17,9 @@ class App extends Component {
             <div className="social-buttons"><i className="fas fa-envelope"></i></div>
           </div>
         </div>
-        <p className="footer">Made with <i className="fas fa-heart animated bounce"></i> by <strong>Joobla</strong></p>
-
+        <div id="footer">
+          <p >Made with <i className="fas fa-heart animated bounce"></i> by <strong>Joobla</strong></p>
+        </div>
       </div >
     );
   }
