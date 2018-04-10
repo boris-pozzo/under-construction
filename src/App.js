@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-//import logo from './joobla.png';
+import logo from './joobla.png';
 import './App.css';
 
 
@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="content-container">
-          <img src={process.env.PUBLIC_URL + '/images/joobla.png'} className="App-logo animated rubberBand" alt="logo" />
+          <img src={logo} className="App-logo animated rubberBand" alt="logo" />
           <h2 className="App-title">Notre site est actuellement en<br /> construction.</h2>
           <p>Patience on arrive...</p>
           <ul className="social-container">
