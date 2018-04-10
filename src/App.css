@@ -45,6 +45,10 @@ img{
   align-items: center;
 }
 
+.svg-inline--fa {
+  color: #999999;
+}
+
 .fa-heart{
   color: red;
 }
