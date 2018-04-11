@@ -20,7 +20,7 @@ class App extends Component {
           </ul>
         </div>
         <div id="footer">
-          <p>Fè èvè on pil <i className="fas fa-heart animated bounce"></i> ba zòt - @Joobla</p>
+          <p>Fè èvè on pil <i className="fas fa-heart animated bounce"></i> ba zòt - ©Joobla</p>
         </div>
       </div >
     );
